@@ -157,10 +157,12 @@
     <ClCompile Include="CppExProjects.cpp" />
     <ClCompile Include="Library\BubbleSort.cpp" />
     <ClCompile Include="Library\FindWord.cpp" />
+    <ClCompile Include="Library\SimpleMultiplicationTable.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Library\BubbleSort.h" />
     <ClInclude Include="Library\FindWord.h" />
+    <ClInclude Include="Library\SimpleMultiplicationTable.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
