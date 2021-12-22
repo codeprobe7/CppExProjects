@@ -6,6 +6,7 @@ void FindWord::Run()
 {
     while(true)
     {
+        std::cout << Sentence << std::endl;
         std::cout << "Input a Word : ";
         std::cin >> InputWord;
         const size_t Index = Sentence.find(InputWord);

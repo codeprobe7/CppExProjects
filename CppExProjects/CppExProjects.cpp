@@ -5,5 +5,7 @@
 
 int main(int argc, char* argv[])
 {
+    FindWord fw;
+    fw.Run();
     return 0;
 }
