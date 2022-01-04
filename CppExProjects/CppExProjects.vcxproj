@@ -158,13 +158,25 @@
     <ClCompile Include="Library\BubbleSort.cpp" />
     <ClCompile Include="Library\FindWord.cpp" />
     <ClCompile Include="Library\FString.cpp" />
+    <ClCompile Include="Library\HelloWorld.cpp" />
+    <ClCompile Include="Library\MultiplyNumber.cpp" />
+    <ClCompile Include="Library\Pointer.cpp" />
+    <ClCompile Include="Library\PrintNumber.cpp" />
     <ClCompile Include="Library\SimpleMultiplicationTable.cpp" />
+    <ClCompile Include="Library\Stream.cpp" />
+    <ClCompile Include="Library\Template.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Library\BubbleSort.h" />
     <ClInclude Include="Library\FindWord.h" />
     <ClInclude Include="Library\FString.h" />
+    <ClInclude Include="Library\HelloWorld.h" />
+    <ClInclude Include="Library\MultiplyNumber.h" />
+    <ClInclude Include="Library\Pointer.h" />
+    <ClInclude Include="Library\PrintNumber.h" />
     <ClInclude Include="Library\SimpleMultiplicationTable.h" />
+    <ClInclude Include="Library\Stream.h" />
+    <ClInclude Include="Library\Template.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
